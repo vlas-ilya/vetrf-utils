@@ -1,0 +1,22 @@
+{
+  "name": "vetrf-utils",
+  "version": "0.0.1",
+  "description": "utils for react-redux",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlas-ilya/vetrf-utils.git"
+  },
+  "author": "vlas-ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlas-ilya/vetrf-utils/issues"
+  },
+  "homepage": "https://github.com/vlas-ilya/vetrf-utils#readme"
+}
